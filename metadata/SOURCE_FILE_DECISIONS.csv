@@ -1,0 +1,9 @@
+item,decision,reason
+paper/final_agent-based-Model-of-Worker-and-Job-Matching.pdf,include,Published paper reference copy for evidence.
+code/original_netlogo/abode.nlogo,include,Original ABODE NetLogo model source; verified exact match to paper implementation claim.
+code/original_netlogo/abode.html,include,Original NetLogo HTML applet export for the model.
+duplicate abode.nlogo copy,exclude_duplicate,Byte-identical to included source.
+NetLogoLite.jar / NetLogoLite.exe,exclude,"Third-party runtime binaries, not authored model source."
+2000 TBI respondent data,exclude_pointer_only,External source data; do not duplicate respondent-level data in GitHub package.
+abode-js repository,pointer_only,Already a separate public GitHub successor at https://github.com/dlevinson/abode-js.
+letters/drafts/review/presentations,exclude,Non-archival for data/code reproducibility package.
