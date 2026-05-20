@@ -1,6 +1,6 @@
 # License Status: An Agent-Based Model Of Worker And Job Matching
 
-Generated: 2026-05-20 13:31:26 AEST
+Generated: 2026-05-20 14:46:37 AEST
 
 Recorded license/access note from the verified audit row: No explicit license found on the original NetLogo source; choose/confirm intended repository license at GitHub upload. Modern abode-js repository has its own GitHub provenance.
 
