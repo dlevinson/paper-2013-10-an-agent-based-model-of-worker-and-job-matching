@@ -1,5 +1,9 @@
 # An Agent-Based Model Of Worker And Job Matching
 
+## Contribution
+
+This paper develops an agent-based model that links workers to employers through an explicit search and hiring process rather than assigning aggregate commute flows directly. Tests on a toy city and Twin Cities data show how wages and skill differentiation lengthen commutes and how disaggregate behavioral rules can reproduce observed commute and wage patterns.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2013-10`
